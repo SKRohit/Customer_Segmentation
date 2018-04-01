@@ -7,7 +7,7 @@ of a 15 x 15 2D **self organizing map (som)** obtained after training the som on
 There are three folders:
 
 ### 1. Script
-Contains two python scripts I used for the project. *Clustering.py* implements the clustering and *minisom.py* is a basic implementation of Self-organising Maps downloaded from [here](https://pypi.python.org/pypi/MiniSom/1.1.1) or installed directly via pip. 
+Contains two python scripts I used for the project. *Clustering.py* is the main script that implements the clustering and *minisom.py* is a basic implementation of Self-organising Maps downloadable from [here](https://pypi.python.org/pypi/MiniSom/1.1.1) or can be installed directly via pip. 
 
 ### 2. Data
 Contains the retail customers data I used in the project.
